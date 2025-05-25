@@ -1,11 +1,4 @@
-Here’s a GitHub-friendly `README.md` with badges, a clear structure, and attractive formatting:
-
-````markdown
 # 🖥️ Drive Analyzer
-
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/drive-analyzer)  
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/SanskarLoganDev/drive-analyzer/ci.yml?branch=main)  
-![License](https://img.shields.io/github/license/SanskarLoganDev/drive-analyzer)
 
 A simple yet powerful Python CLI and web app to scan your drives, report folder sizes, and interactively explore the results.
 
@@ -13,27 +6,27 @@ A simple yet powerful Python CLI and web app to scan your drives, report folder 
 
 ## 🚀 Features
 
-- **Recursive scan** of any folder or drive  
-- **Human-readable sizes** with graceful formatting  
-- **Top-N analysis** of largest subfolders in the terminal  
-- **Flask-powered web UI** for interactive browsing  
-- **Zero external dependencies** beyond PyPI packages  
-- **Cross-platform**: works on Windows, macOS & Linux  
+- Recursive scan of any folder or drive  
+- Human-readable sizes with graceful formatting  
+- Top-N analysis of largest subfolders in the terminal  
+- Flask-powered web UI for interactive browsing  
+- Zero external dependencies beyond PyPI packages  
+- Cross-platform: works on Windows, macOS & Linux  
 
 ---
 
 ## 📦 Table of Contents
 
-1. [Installation](#installation)  
-2. [Quickstart](#quickstart)  
-3. [CLI Usage](#cli-usage)  
-   - [Scan](#scan)  
-   - [Analyze](#analyze)  
-   - [Serve](#serve)  
-4. [Project Structure](#project-structure)  
-5. [How It Works](#how-it-works)  
-6. [Contributing](#contributing)  
-7. [License](#license)  
+1. Installation 
+2. Quickstart 
+3. CLI Usage  
+   - Scan
+   - Analyze  
+   - Serve 
+4. Project Structure 
+5. How It Works 
+6. Contributing 
+
 
 ---
 
@@ -43,7 +36,7 @@ A simple yet powerful Python CLI and web app to scan your drives, report folder 
    ```bash
    git clone https://github.com/SanskarLoganDev/drive-analyzer.git
    cd drive-analyzer
-````
+   ```
 
 2. **Create a virtual environment**
 
