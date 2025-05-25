@@ -159,7 +159,3 @@ drive-analyzer/
 5. Open a Pull Request here
 
 ---
-
-## 📄 License
-
-Distributed under the MIT License.
