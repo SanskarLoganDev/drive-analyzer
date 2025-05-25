@@ -1,0 +1,6 @@
+# for nice human-readable sizes, CLI parsing, and pretty tables
+click>=8.0
+humanfriendly>=10.0
+rich>=12.0
+flask>=2.0
+
